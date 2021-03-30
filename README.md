@@ -14,6 +14,10 @@ How I calculate the execution time:
 
 ## Screen of the result
 
+List of all result files:
+![Result List](./result_list.png "Result List")
+
+One of the result files:
 ![Result](./result.png "Result")
 
 ## Screens of the execution output
